@@ -6,7 +6,7 @@
         "capacity":1,
         "category_id": 1,
         "price": 800,
-        "image": "dsada.jpeg",
+        "image": "https://ibb.co/9vS4Ymj",
         "desc": "A room with the facility of single bed. It is meant for single occupancy. It has an attached bathroom, a small dressing table, a small bedside table, and a small writing table. Sometimes it has a single chair too.",
         "amenities": [
             {
@@ -181,13 +181,69 @@
     {
         "id": 8,
         "room_name": "Marrige Hall",
-        "category": "Party Halls",
+        "category": "Multipurpurpose Halls",
         "category_id": 2,
         "price": 56000,
         "image": "dasda.jpeg",
         "capacity": 50,
         "desc": ""
 
+    },
+    {
+        "id": 9,
+        "room_name": "Marrige Hall",
+        "category": "Multipurpurpose Halls",
+        "category_id": 2,
+        "price": 70000,
+        "image": "dasda.jpeg",
+        "capacity": 100,
+        "desc": ""
+
+    },
+    {
+        "id": 10,
+        "room_name": "Marrige Hall",
+        "category": "Multipurpurpose Halls",
+        "category_id": 2,
+        "price": 150000,
+        "image": "dasda.jpeg",
+        "capacity": 150,
+        "desc": ""
+
+    },
+    
+    
+    {
+        "id": 11,
+        "room_name":"Conference Room",
+        "category": "Multipurpurpose Halls",
+        "category_id":"2",
+        "price": 80000,
+        "image": "dasda.jpeg",
+        "capacity" : 25,
+        "desc":""
+    },
+    
+    {
+        "id": 12,
+        "room_name":"Conference Room",
+        "category": "Multipurpurpose Halls",
+        "category_id":"2",
+        "price": 100000,
+        "image": "dasda.jpeg",
+        "capacity" : 50,
+        "desc":""
+    },
+    
+    {
+        "id": 13,
+        "room_name":"Conference Room",
+        "category": "Multipurpurpose Halls",
+        "category_id":"2",
+        "price": 250000,
+        "image": "dasda.jpeg",
+        "capacity" : 100,
+        "desc":""
     }
 ]
 
